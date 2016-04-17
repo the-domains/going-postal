@@ -6,22 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: "A bit more than a year ago, during an evening out with friends at the local pub, we were talking about how social media changed our relationships and if it was for the best.\_"
-datePublished: '2016-04-17T17:57:03.846Z'
-dateModified: '2016-04-17T17:56:24.634Z'
+datePublished: '2016-04-17T18:05:49.284Z'
+dateModified: '2016-04-17T18:05:43.302Z'
 title: How I went postal
 author: []
+sourcePath: _posts/2016-04-17-how-i-went-postal.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-how-i-went-postal.md
-published: true
 url: how-i-went-postal/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45763c4c-ec52-41ca-8617-242880b7d2bf.png)
+
 A bit more than a year ago, during an evening out with friends at the local pub, we were talking about how social media changed our relationships and if it was for the best. 
 
 Opinions were split: some people felt it was great to be able to stay in touch and be aware about the whereabouts of ex-friends in other countries, and some regretted they didn't have much to say to people when they met up, because they knew everything, so there was nothing to catch up on. 
