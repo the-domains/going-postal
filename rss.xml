@@ -4,14 +4,21 @@
         <description><![CDATA[Going Postal]]></description>
         <link>https://thegrid.ai/going-postal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 18:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 21:56:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/going-postal/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How I went postal]]></title>
-            <description><![CDATA[<article><h1>How I went postal</h1><p>A bit more than a year ago, during an evening out with friends at the local pub, we were talking about how social media changed our relationships and if it was for the best. </p></article>]]></description>
+            <description><![CDATA[<p>A bit more than a year ago, during an evening out with friends at the local pub, we were talking about how social media changed our relationships and if it was for the best. </p>]]></description>
             <link>https://thegrid.ai/going-postal/how-i-went-postal/index.html</link>
             <guid isPermaLink="false">1318669d-a2c6-49f0-8095-edcf9a7ef1f5</guid>
             <pubDate>Sun, 17 Apr 2016 18:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I need a system</p>]]></description>
+            <link>https://thegrid.ai/going-postal/i-need-a-system/index.html</link>
+            <guid isPermaLink="false">7909edfd-f0a0-4172-be9c-62dce6e67d03</guid>
+            <pubDate>Mon, 02 May 2016 21:56:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
